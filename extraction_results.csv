@@ -1,0 +1,6 @@
+note_id,patient_name,provider_name,visit_date,icd10_codes,cpt_codes,diagnoses
+NOTE001,John Smith,Sarah Johnson,01/10/2024,"M51.16, M54.42",72148,Lumbar disc herniation
+NOTE002,"Maria Garcia,",Robert Chen,01/15/2024,"E11.65, I10",83036,Type 2 diabetes mellitus uncontrolled | Essential hypertension
+NOTE003,Robert Williams,Emily Patel,01/20/2024,"I24.9, E78.5","84484, 93306",Acute coronary syndrome
+NOTE004,Jennifer Lee,Michael Brown,01/25/2024,M23.201,73721,Tear of medial meniscus
+NOTE005,David Thompson,Lisa Wong,01/28/2024,J18.9,71046,Community acquired pneumonia
